@@ -2,30 +2,14 @@
 
 # 🎓 College Connect — A Verified Campus Communication Platform
 
-**A secure, college-exclusive platform that centralizes announcements, helps freshers connect with seniors, and uses Gemini AI to make academic communication clearer.**
+> **CampusConnect** (formerly Verified College Community Platform) is a secure, centralized digital ecosystem designed to digitize official college communication, discussions, and student interactions within a verified academic environment.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://my-hackathon-mvp-of-gdg.vercel.app/)
-[![Demo Video](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/drive/folders/1PDgYueGxes2h6j0VnvNa8V3ycJqVJBZb?usp=drive_link)
-![React](https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Gemini](https://img.shields.io/badge/Google-Gemini%20AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+Built to solve the chaotic and often unsafe nature of open social platforms, CampusConnect replaces scattered, informal chat groups with an organized platform exclusively for college students. It solves critical pain points for freshers trying to connect with seniors for guidance, prevents harassment by keeping contact numbers private, and ensures official academic updates are never lost.
 
-**Google Developer Group on Campus (GGV) · HackXSprint · Problem Statement: Open Innovation**
 
 </div>
 
----
 
-## 📌 Team Details
-
-| | |
-|---|---|
-| **Team Name** | Quantum Coders |
-| **Team Leader** | Mandakni |
-| **Hackathon** | HackXSprint — GDG On Campus, GGV |
-| **Problem Statement** | Open Innovation |
-
----
 
 ## 📖 Table of Contents
 
@@ -191,50 +175,7 @@ A **centralized, college-exclusive platform** where only verified students can a
 - A [Firebase](https://console.firebase.google.com/) project (Authentication + Firestore enabled)
 - A [Gemini API key](https://aistudio.google.com/app/apikey)
 
-### Installation
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/Pratyush25ranjan/My-Hackathon-MVP-of-GDG.git
-
-# 2. Move into the project directory
-cd My-Hackathon-MVP-of-GDG
-
-# 3. Install dependencies
-npm install
-```
-
-### Environment Variables
-
-Create a `.env` file in the project root:
-
-```env
-VITE_FIREBASE_API_KEY=your_firebase_api_key
-VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
-VITE_FIREBASE_PROJECT_ID=your_project_id
-VITE_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
-VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
-VITE_FIREBASE_APP_ID=your_app_id
-VITE_GEMINI_API_KEY=your_gemini_api_key
-```
-
-> ⚠️ Never commit your `.env` file. Make sure it is listed in `.gitignore`.
-
-### Run Locally
-
-```bash
-npm run dev
-```
-
-The app will be available at `http://localhost:5173`.
-
-### Build for Production
-
-```bash
-npm run build
-```
-
----
 
 ## 🔮 Future Roadmap
 
@@ -247,43 +188,5 @@ npm run build
 
 ---
 
-## 🔗 Important Links
 
-| Resource | Link |
-|---|---|
-| 💻 **GitHub Repository** | [Pratyush25ranjan/My-Hackathon-MVP-of-GDG](https://github.com/Pratyush25ranjan/My-Hackathon-MVP-of-GDG) |
-| 🧪 **Live MVP** | [my-hackathon-mvp-of-gdg.vercel.app](https://my-hackathon-mvp-of-gdg.vercel.app/) |
-| 🎥 **Demo Video & Snapshots** | [Google Drive Folder](https://drive.google.com/drive/folders/1PDgYueGxes2h6j0VnvNa8V3ycJqVJBZb?usp=drive_link) |
 
----
-
-## 👥 Team
-
-**Team Quantum Coders** — Team Leader: **Mandakni**
-
-*Add teammates here:*
-
-| Name | Role | GitHub |
-|---|---|---|
-| Mandakni | Team Leader | [@username](https://github.com/username) |
-| | | |
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to open an [issue](https://github.com/Pratyush25ranjan/My-Hackathon-MVP-of-GDG/issues) or submit a pull request.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-
-Built with ❤️ by **Team Quantum Coders** for **HackXSprint** · Google Developer Group On Campus, GGV
-
-⭐ *If you like this project, give it a star!*
-
-</div>
