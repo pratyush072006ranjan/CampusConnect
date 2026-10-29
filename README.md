@@ -148,10 +148,6 @@ A **centralized, college-exclusive platform** where only verified students can a
   User (Student / Admin)
 ```
 
-> 📎 *Add the architecture diagram, process flow, and use-case diagram images from the presentation to a `/docs` or `/assets` folder and reference them here:*
->
-> `![Architecture Diagram](./assets/architecture.png)`
-
 ---
 
 ## 🧰 Tech Stack
