@@ -22,8 +22,7 @@ Built to solve the chaotic and often unsafe nature of open social platforms, Cam
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
 - [Future Roadmap](#-future-roadmap)
-- [Important Links](#-important-links)
-- [Team](#-team)
+
 
 ---
 
